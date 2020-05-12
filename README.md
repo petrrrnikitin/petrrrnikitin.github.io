@@ -1,2 +1,2 @@
 # petrrrnikitin.github.io
-[Hangman Game](Hangman%20Game/)
+[Hangman Game](https://petrrrnikitin.github.io/Hangman%20Game/)
